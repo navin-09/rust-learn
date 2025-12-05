@@ -1,0 +1,24 @@
+# Compiled files
+target/
+
+# Cargo package files
+Cargo.lock
+
+# If you're building a library, you may want to include Cargo.lock:
+# but for binaries, it's okay to ignore.
+
+# Backup files
+*.rs.bk
+
+# IDE / Editor files
+# VSCode
+.vscode/
+
+# IntelliJ / CLion / RustRover
+.idea/
+
+# MacOS filesystem files
+.DS_Store
+
+# Logs
+*.log
